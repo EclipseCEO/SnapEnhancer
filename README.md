@@ -67,7 +67,7 @@ If You'd like to donate to the Developers of the SnapEnhance and SE Extended pro
 - ETH: 0x0760987491e9de53A73fd87F092Bd432a227Ee92  
 - XMR: 49W4Xp7QKdUdVw4otEctWZDC8gnW9nnhoiqMJzY6sKuZBD9xrh9BG4sjdE3r1Jt78j27R6x7522YUA9JVvh892CAJLeKaMu  
 <br>
-@authorisation
+@authorisation  
 - XMR: 82kPkAgG2zxQYnSdoFSWzvbSEtEP63NBDh9hgLqp6LgBhPNhZ4dDGv8gVFUEuUhDoi1U14ZgE71teJXo2eBe8iERRRmhcUW  
 
 <br>  
