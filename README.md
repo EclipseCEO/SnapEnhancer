@@ -27,7 +27,17 @@ This section will be updated soon!
 <br>  
 
 ## Configurations
-This section will be updated soon!
+- [Advanced](https://google.com/404)  
+  Has all privacy, downloading and interface based options enabled.<br>
+- [Privacy](https://google.com/404)  
+  Has only privacy based options enabled.<br>
+- [Minimal](https://google.com/404)  
+  Has very little options enabled (basic).
+
+<br>  
+
+## All-In-One Download
+In this folder, You can find both SnapEnhance and SE Extended applications as well as all themes, scripts and configurations listed in this repo. You can download it [here](https://google.com/404)
 
 <br>  
 
