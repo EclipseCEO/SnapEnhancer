@@ -52,7 +52,8 @@ This section will be updated soon!
 <br>  
 
 ## Credit
-This section will be updated soon!
+[SnapEnhance repo](https://github.com/rhunk/SnapEnhance)  
+[SE Extended repo](https://github.com/bocajthomas/SE-Extended)  
 
 <br>  
 
