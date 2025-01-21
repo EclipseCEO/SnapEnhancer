@@ -1,7 +1,7 @@
 ## About
 SnapEnhance is an Xposed modification that enhances your SnapChat experience.
 Please note that this project is currently in development, so bugs and crashes may occur. If you encounter any issues, we encourage you to report them [here](https://github.com/EclipseCEO/SnapEnhancer/issues).  
-<br>  
+<br>
 Please note that this is an unofficial repo, just a collection of both SnapEnhance and SE Extended content.
 
 <br>  
