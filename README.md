@@ -17,7 +17,17 @@ This section will be updated soon!
 <br>  
 
 ## Themes
-This section will be updated soon!
+- [Basic themes](https://google.com/404)  
+- [Solid colours](https://google.com/404)  
+- [Mixed colours](https://google.com/404)  
+- [Amoled](https://google.com/404)  
+- [Red](https://google.com/404)  
+- [Pink](https://google.com/404)  
+- [Orange](https://google.com/404)  
+- [Green](https://google.com/404)  
+- [Yellow](https://google.com/404)  
+- [Blue](https://google.com/404)  
+- [Purple](https://google.com/404)  
 
 <br>  
 
